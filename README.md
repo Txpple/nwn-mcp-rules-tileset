@@ -1,6 +1,6 @@
 # nwn-mcp-rules-tileset
 
-Documentation and Claude Code rules for working on Neverwinter Nights: Enhanced Edition modules and custom content with AI assistance.
+Documentation and Claude Code rules for working on Neverwinter Nights: Enhanced Edition modules and custom content with AI assistance. This repo is geared specifically toward custom content creation for tilesets.
 
 ## Using Claude Code for working on a module
 
