@@ -1,4 +1,4 @@
-# nwn-mcp-rules
+# nwn-mcp-rules-tileset
 
 Documentation and Claude Code rules for working on Neverwinter Nights: Enhanced Edition modules and custom content with AI assistance.
 
