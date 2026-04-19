@@ -1,6 +1,6 @@
 # nwn-mcp-rules-tileset
 
-Documentation and Claude Code rules for working on Neverwinter Nights: Enhanced Edition modules and custom content with AI assistance. This repo is geared specifically toward custom content creation for tilesets.
+Documentation and Claude Code rules for working on Neverwinter Nights: Enhanced Edition modules and custom content with AI assistance. This repo is geared specifically toward custom content creation for tilesets — the rules below cover NWN Enhanced Edition tileset development, letting you use Claude to edit your `.set` files, ITP files, and perform many tileset-related tedious operations with AI assistance.
 
 ## Using Claude Code for working on a module
 
@@ -26,5 +26,3 @@ One way you can help your workflow is set your working folder to `development` o
 | SET File Format | `.set`, `.mdl`, `.wok` files | Structure of the `.set` tileset definition, terrain/crosser types, tile entries, door sections, groups, and MDL/WOK internal references |
 | ITP Palette Format | `.itp` files | Structure of the `.itp` toolset palette, branch IDs, subfolder ID values, terrain paint layout, and JSON entry formats |
 | Tileset Operations | `.set`, `.itp`, `.mdl`, `.wok` files | Procedures for reordering tiles, duplicating terrain families, adding tiles, troubleshooting, and verification |
-
-The rules below cover NWN Enhanced Edition tileset development. With these, you can use Claude to edit your `.set` files, ITP files, and perform many tileset-related tedious operations with AI assistance.
